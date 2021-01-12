@@ -2,4 +2,4 @@
 
 Screenshot:
 
-![screenshot](img/cards_screenshot.jpg)
+![screenshot](../screenshots/cards_screenshot.jpg)
