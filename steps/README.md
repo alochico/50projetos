@@ -2,4 +2,4 @@
 
 Screenshot:
 
-![screenshot](../screenshots/progress_steps_screenshot.png)
+![screenshot](../screenshots/steps.gif)
