@@ -2,4 +2,4 @@
 
 Screenshot:
 
-![screenshot](../screenshots/menu_rotante_screenshot.png)
+![screenshot](../screenshots/rotating_menu.gif)
